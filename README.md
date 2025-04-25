@@ -124,11 +124,6 @@ http://localhost:8080/livros ou http://localhost:8080/autores
 David Mendes
 Projeto acadêmico de avaliação - CRUD com Spring Boot + MariaDB
 
-go
-Copiar
-Editar
-
-Se quiser, posso gerar um arquivo `.md` para download. Quer que eu envie?
 
 
 
